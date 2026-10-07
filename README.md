@@ -139,6 +139,21 @@ VisionDesk/
 
 VisionDesk AI was developed as a collaborative project under the **VisionStorm4** GitHub organization.
 
+### Team Members
+
+| Team Member          | GitHub                                                         |
+| -------------------- | -------------------------------------------------------------- |
+| **Simran Singh**     | [@sssimransingh26-bit](https://github.com/sssimransingh26-bit) |
+| **Joyce Angeleena**  | [@joyceangeleena21](https://github.com/joyceangeleena21)       |
+| **Ritik Yadav**      | [@ritikyadav676](https://github.com/ritikyadav676)             |
+| **Sri Unnikrishnan** | [@SriUnnikrishnan](https://github.com/SriUnnikrishnan)         |
+
+
+## Purpose
+
+The goal of VisionDesk AI is to provide an intelligent workplace safety platform that combines visual monitoring with safety-document knowledge and AI reasoning to help identify PPE violations and provide actionable safety insights.
+
+
 ## Purpose
 
 The goal of VisionDesk AI is to provide an intelligent workplace safety platform that combines visual monitoring with safety-document knowledge and AI reasoning to help identify PPE violations and provide actionable safety insights.
